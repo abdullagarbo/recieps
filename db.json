@@ -18,7 +18,7 @@
         },
         {
             "id": 1,
-            "name": 'SMÖRGÅSTÅRTOR',
+            "name": "SMÖRGÅSTÅRTOR",
             "photo_url":
                 "https://eclairsundsvall.se/old/images/sandwich_cake2_large.jpg"
         },
@@ -39,5 +39,5 @@
             "name": "FIGURTÅRTOR",
                 "photo_url": "https://eclairsundsvall.se/old/images/fig19.jpg"
         },
-    ];
+    ]
 }
